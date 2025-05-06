@@ -1,0 +1,170 @@
+Patch 1, 1 years:
+Wide sigma = 0.12501019438895505
+Delensing sigma = 0.10166172962706772
+Patch 1, 2 years:
+Wide sigma = 0.11188001456232645
+Delensing sigma = 0.0925796927487597
+Patch 1, 3 years:
+Wide sigma = 0.10532190479418509
+Delensing sigma = 0.08780486858889532
+Patch 1, 4 years:
+Wide sigma = 0.10106574823398794
+Delensing sigma = 0.08466506086803179
+Patch 1, 5 years:
+Wide sigma = 0.09795817634902394
+Delensing sigma = 0.08237680466872639
+Patch 1, 6 years:
+Wide sigma = 0.09553071517756735
+Delensing sigma = 0.08060491461421997
+Patch 1, 7 years:
+Wide sigma = 0.09354960490155279
+Delensing sigma = 0.07917632330006615
+Patch 1, 8 years:
+Wide sigma = 0.09188237906936828
+Delensing sigma = 0.07799066616118047
+Patch 1, 9 years:
+Wide sigma = 0.09044712722510184
+Delensing sigma = 0.07698488811085599
+Patch 1, 10 years:
+Wide sigma = 0.08918986318721141
+Delensing sigma = 0.07611697768989907
+Patch 2, 1 years:
+Wide sigma = 0.0686053003692445
+Delensing sigma = 0.19407105316702125
+Patch 2, 2 years:
+Wide sigma = 0.060126255574842725
+Delensing sigma = 0.1741021271981593
+Patch 2, 3 years:
+Wide sigma = 0.05604767396068224
+Delensing sigma = 0.1641004080675614
+Patch 2, 4 years:
+Wide sigma = 0.05347029741509335
+Delensing sigma = 0.1575769153373581
+Patch 2, 5 years:
+Wide sigma = 0.05162662552705068
+Delensing sigma = 0.1527948169923642
+Patch 2, 6 years:
+Wide sigma = 0.050209866990297565
+Delensing sigma = 0.1490481537233912
+Patch 2, 7 years:
+Wide sigma = 0.049069089019373936
+Delensing sigma = 0.1459840099690957
+Patch 2, 8 years:
+Wide sigma = 0.048119832127926344
+Delensing sigma = 0.14340190773302827
+Patch 2, 9 years:
+Wide sigma = 0.047310456759378006
+Delensing sigma = 0.14117751192553984
+Patch 2, 10 years:
+Wide sigma = 0.04660727226998497
+Delensing sigma = 0.1392286020489344
+Patch 3, 1 years:
+Wide sigma = 0.43031586173412695
+Delensing sigma = 0.3861544406121572
+Patch 3, 2 years:
+Wide sigma = 0.3626052475573913
+Delensing sigma = 0.3324173266263241
+Patch 3, 3 years:
+Wide sigma = 0.3310093198260825
+Delensing sigma = 0.3076576532155818
+Patch 3, 4 years:
+Wide sigma = 0.31145388294684834
+Delensing sigma = 0.29234690074526265
+Patch 3, 5 years:
+Wide sigma = 0.29769416349084105
+Delensing sigma = 0.281529455070634
+Patch 3, 6 years:
+Wide sigma = 0.2872703942660582
+Delensing sigma = 0.27328022180363637
+Patch 3, 7 years:
+Wide sigma = 0.2789840240508735
+Delensing sigma = 0.2666711305632535
+Patch 3, 8 years:
+Wide sigma = 0.2721690870809918
+Delensing sigma = 0.2611905783012192
+Patch 3, 9 years:
+Wide sigma = 0.2664207909002591
+Delensing sigma = 0.2565292878596232
+Patch 3, 10 years:
+Wide sigma = 0.26147644454790325
+Delensing sigma = 0.25248721596525
+Patch 4, 1 years:
+Wide sigma = 0.667161626665664
+Delensing sigma = 0.8087364672281044
+Patch 4, 2 years:
+Wide sigma = 0.5927904506522976
+Delensing sigma = 0.6867882176760878
+Patch 4, 3 years:
+Wide sigma = 0.5418767613797768
+Delensing sigma = 0.6131583142045567
+Patch 4, 4 years:
+Wide sigma = 0.504630013314458
+Delensing sigma = 0.5631281863140922
+Patch 4, 5 years:
+Wide sigma = 0.47601526633063446
+Delensing sigma = 0.5264905078225293
+Patch 4, 6 years:
+Wide sigma = 0.4532104490997517
+Delensing sigma = 0.49825121971163233
+Patch 4, 7 years:
+Wide sigma = 0.434514740095528
+Delensing sigma = 0.4756626106537931
+Patch 4, 8 years:
+Wide sigma = 0.41884132367413035
+Delensing sigma = 0.4570795100076468
+Patch 4, 9 years:
+Wide sigma = 0.40546212718993013
+Delensing sigma = 0.44145217924754404
+Patch 4, 10 years:
+Wide sigma = 0.3938701857367345
+Delensing sigma = 0.42807674141957996
+----------
+sigma Neff per year, wide + delensing: 
+1 years, total = 0.04727268511452808
+1 years, wide only = 0.05868707032235449
+1 years, delensing only = 0.08542265063750289
+1 years, total plus SO = 0.040638632951374244
+2 years, total = 0.04186159751846041
+2 years, wide only = 0.05174078590607303
+2 years, delensing only = 0.07718815996518662
+2 years, total plus SO = 0.03704535083656079
+3 years, total = 0.03916471935252913
+3 years, wide only = 0.04833864234616663
+3 years, delensing only = 0.07290793541590443
+3 years, total plus SO = 0.035137108281396504
+4 years, total = 0.03743033604863949
+4 years, wide only = 0.046164685944252826
+4 years, delensing only = 0.07009743967720511
+4 years, total plus SO = 0.03386844371517684
+5 years, total = 0.03617769328591877
+5 years, wide only = 0.04459726848964481
+5 years, delensing only = 0.06804464165607665
+5 years, total plus SO = 0.032932022959528545
+6 years, total = 0.03520999223852592
+6 years, wide only = 0.04338558617574603
+6 years, delensing only = 0.06644904103103846
+6 years, total plus SO = 0.03219709313527058
+7 years, total = 0.034428689199348377
+7 years, wide only = 0.0424053480360885
+7 years, delensing only = 0.06515678057203934
+7 years, total plus SO = 0.031596431330279895
+8 years, total = 0.03377788017277209
+8 years, wide only = 0.04158658137342938
+8 years, delensing only = 0.06407909484892634
+8 years, total plus SO = 0.031091139903036757
+9 years, total = 0.03322300985013284
+9 years, wide only = 0.040886283382520094
+9 years, delensing only = 0.06316038850211086
+9 years, total plus SO = 0.030656796018437477
+10 years, total = 0.03274133429889262
+10 years, wide only = 0.04027627302792527
+10 years, delensing only = 0.06236368358613352
+10 years, total plus SO = 0.03027711695373276
+fsky wide: [0.064 0.31  0.016 0.027]
+fsky deep: [0.043 0.021 0.01  0.015]
+total fsky from S4: 0.506
+leftover fsky from SO: 0.128
+sigmaNeff from SO: 0.07954951288348659
+debugging False
+SO True
+writing Fisher matrices
