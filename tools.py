@@ -5,7 +5,6 @@ from astropy import units as u
 from astropy import coordinates as coord
 from pylab import *
 import copy
-import sne_cmb_fisher_tools
 
 def combine_fisher( F_mat_arr, param_names_arr, small_diag_element = 1e-3):
 
